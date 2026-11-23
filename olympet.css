@@ -114,3 +114,15 @@ font-size: 24px;
    display: flex;
     flex-direction: column;  
 }
+
+.photo1,
+.photo2 {
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+.photo1:hover,
+.photo2:hover {
+    transform: scale(1.03);
+}
+/*شعيب مجدوب*/
